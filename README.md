@@ -23,7 +23,7 @@ Fatti i primi due pilastri, tutto il resto potrebbe essere investito. Dipende da
 - Obbligazioni --> BTP, buoni del tesoro pluriennali, "prestito", nel caso dei BTP, allo Stato che ti garantisce un interesse. 
 
 ### Lungo termine
-Investimento di tipo azionario, con una durata *minima* di 10 anni. Da mettere in questo quarto pilastro solo i soldi che "non servono", ovvero se e solo se si sono coperti i tre pilastri precedenti. Classici strumenti per entrare nel mondo dell'azionario senza dover seguirlo, sono gli ETF (segue).
+Investimento di tipo azionario, con una durata *minima* di 10 anni. Da mettere in questo quarto pilastro solo i soldi che "non servono" per i seguenti almeno 10 anni e se e solo se si sono coperti i tre pilastri precedenti. Pilastro da usare solo se si è in grado di sopportare perdite (anche non banali) nel "breve" periodo. Classici strumenti per entrare nel mondo dell'azionario senza dover seguirlo, sono gli ETF (segue).
 
 ### Obiettivi
 Che obiettivi ho?
@@ -43,6 +43,28 @@ Che tipi di conti corrente avere?
 - conto secondario (?) --> se si gestiscono situazioni familiari "complesse"
 - carte conto --> revolut, può essere usata come conto secondario
 
+## EEF 04 - Ti serve una carta di credito?
+
+### Bancomat - carta di debito
+Rilasciata necessariamente dalla propria banca (molto spesso gratuitamente), si appoggia al circuito *Pagomancomat* per effettuare pagamenti; se è anche *Maestro* allora può essere utilizzata per alcuni pagamenti online.
+L'operazione effettuata si riflette immediatamente sul conto corrente, se non c'è abbastanza disponibilità, il pagamento non va a buon fine.
+
+### Carta di credito
+Non necessariamente emessa dalla propria banca.
+Si basa su tre circuiti principali:
+- Visa --> globalmente accettato
+- Mastercard --> globalmente accettato
+- American Express --> accettato da circa 1/3 dei posti perchè ha commissioni più alte. Offre molti vantaggi per chi viaggia molto. Da fare se si ha almeno una delle altre due.
+
+Ogni volta che si effettua un pagamento, l'importo non viene immediatamente decurtato dal conto, viene fatto quindi un credito (potenzialmente si potrebbero anche non avere soldi sul conto corrente). Una volta al mese viene fatto il conto totale del debito ed entro, tendenzialmente, due settimane va ripagato al creditore.
+
+Comoda per pagare spese impreviste, massimali molto alti, di solito si ha il tempo per recuperare soldi da mettere nel conto da cui la carta attinge. Fondamentale per noleggiare auto.
+
+### Carta ricaricabile
+Hanno un "conto di appoggio" nel quale va bonificato l'importo di cui si vuole ricaricare. Si può spendere solo quello che c'è su. Utile?
+
+## EEF 05 - Scegliere il giusto conto titoli 
+Deposito per strumenti finanziari. Da avere per forza se si vuole investire in obbigazioni/azioni. Da accesso ad alcuni mercati.
 
 
 
