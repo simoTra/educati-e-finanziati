@@ -64,8 +64,80 @@ Comoda per pagare spese impreviste, massimali molto alti, di solito si ha il tem
 Hanno un "conto di appoggio" nel quale va bonificato l'importo di cui si vuole ricaricare. Si può spendere solo quello che c'è su. Utile?
 
 ## EEF 05 - Scegliere il giusto conto titoli 
-Deposito per strumenti finanziari. Da avere per forza se si vuole investire in obbigazioni/azioni. Da accesso ad alcuni mercati.
+Deposito per strumenti finanziari. Da avere per forza se si vuole investire in obbigazioni/azioni. Da accesso ad alcuni mercati, prima di aprire un conto titoli bisogna vedere se quello selezionato ci da accesso ai mercati di nostro interesse. Accesso a *borsa italiana* obbligatorio (MOT, euroMOT).
 
+Potrebbe avere dei costi annuali. Ogni volta che si compra/vende, si hanno delle commissioni fisse o delle percentuali sull'importo
+
+Si possono trasferire i titoli da un conto titoli all'altro, gratuitamente. Operazione fatta a mano dagli operatori, spesso ci mette del tempo.
+
+Gli itermediari esteri come Degiro, Scalable Capital, Interactive Brokers (e Trade Republic), danno spesso accesso a mercati finanziari esteri e hanno commissioni gratuite o molto basse. Le tasse, se l'intermediario è italiano, vengono pagate automaticamente, se é estero no, verificare almeno che venga fornito il *quadro RW* precompilato da ricopiare in dichiarazione dei redditi.
+
+## EEF 06 - La matematica necessaria
+
+### Interesse composto
+
+Interesse che si riceve su un importo principale, che é compreso dell'interesse accumulato dai periodi precedenti su un deposito o di un prestito --> *(b+b+20%)*
+L'effetto dell'interesse composto si vede nella maggior parte dei casi quando l'orizzonte temporale é molto lungo o se i rendimenti sono molto alti.
+
+| Data     | Valore [€]          |          |     | Valore [€] |         |
+| -------- | ------------------- | -------- | --- | ---------- | ------- |
+| 1/1/2025 | 173,94              |          |     | 999173,94  |         |
+| 1/1/2026 | 273,94              |          |     | 999273,94  |         |
+|          | guadagno *(b-a)*    | 100      |     | guadagno   | 100,00  |
+|          | gain   *(b-a)/a*    | 57,4911% |     | gain       | 0,0100% |
+|          | *(b/a)-1*           | 57,4911% |     |            | 0,0100% |
+| RITORNO  | 57,5%               |          |     |            |         |
+| 1/1/2027 | 328,728 *(b+b+20%)* |          |     |            |         |
+|          | guadagno            | 88,989%  |     |            |         |
+
+### Annualizzare l'interesse
+
+| Data      | Valore [€] |         |                                           | Data      | Valore [€] |                     |                               |
+| --------- | ---------- | ------- | ----------------------------------------- | --------- | ---------- | ------------------- | ----------------------------- |
+| 1/1/2025  | 100        |         |                                           | 1/1/2025  | 100        |                     |                               |
+| 1/10/2027 | 120        | 20%     | su due anni                               | 1/1/2026  | 110        | 10%                 | su un anno                    |
+|           |            |         |                                           | 1/1/2027  | 121        | 20 dal 100 iniziale | 1 dal 110, interesse composto |
+|           |            | 9,545%  | (1+rendimento%)^(1/n anni)-1              |           |            | 10,000%             |                               |
+|           |            |         | n anni =        365/n giorni investimento |           |            |                     |                               |
+|           |            |         |                                           |           |            |                     |                               |
+| Data      | Valore [€] |         |                                           | Data      | Valore [€] |                     |                               |
+| 1/1/2025  | 100        |         |                                           | 1/1/2025  | 100        |                     |                               |
+| 27/3/2026 | 120        | 20%     | su un anno e un pezzo                     | 1/10/2025 | 110        | 10%                 | su 9 mesi                     |
+|           |            |         |                                           |           |            |                     |                               |
+|           |            | 15,949% |                                           |           |            | 13,600%             |
+
+
+### Tasso Interno di Rendimento
+
+Cosa succede se non si ha un'acquisto ed una conseguente vendita ma un flusso di denaro, come per esempio nelle obbligazioni?
+
+| Date     | Flussi   |        |        |                             |
+| -------- | -------- | ------ | ------ | --------------------------- |
+| 1/1/2025 | -100,00  |        |        |                             |
+| 1/7/2025 | 1,5      |        |        |                             |
+| 1/1/2026 | 1,5      |        | 3,021% | TIR                         |
+| 1/7/2026 | 1,5      |        |        | tasso interno di rendimento |
+| 1/1/2027 | 1,5      |        |        |                             |
+| 1/7/2027 | 1,5      |        |        |                             |
+| 1/1/2028 | 1,5      |        |        |                             |
+| 1/7/2028 | 1,5      |        |        |                             |
+| 1/1/2029 | 101,5    |        |        |                             |
+|          | rend     | 12,00% |        |                             |
+|          | rend ann | 2,87%  |        |                             |
+
+
+Il calcolo del rendimento annuo non tiene conto di quando riceviamo i soldi, cosa fondamentale in finanza.
+
+*TIR.X* --> formula di excel per calcolarlo (la formula in realtà è matematicamente irrisolvibile). Tiene conto di quando arrivano i soldi, a differenza del calcolo normale del rendimento che da il risultato come se tutto arrivasse all'ultimo giorno. Da per scontanto che i soldi vengano re investiti in un investimento analogo.
+
+Se si hanno flussi di cassa, quindi, è meglio utilizzare il TIR invece che il rendimento.
+
+### Statistica descrittiva
+
+| Statistica          | Finanza                      |
+| ------------------- | ---------------------------- |
+| Media               | Media dei rendimenti storici |
+| Deviazione Standard | Volatilità                   |
 
 
 
