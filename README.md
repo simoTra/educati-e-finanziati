@@ -35,6 +35,7 @@ Appunti del corso base di [educazione finanziaria di Paolo Coletti](https://www.
     - [Microstruttura del mercato finanziario](#microstruttura-del-mercato-finanziario)
     - [Calcolo del rateo](#calcolo-del-rateo)
     - [Tassazione delle obbligazioni](#tassazione-delle-obbligazioni)
+  - [EEF 10 - I nove errori da evitare](#eef-10---i-nove-errori-da-evitare)
 
 
 ## EEF 02 - Strategia di investimento a quattro pilastri
@@ -283,5 +284,20 @@ Per questo motivo è meglio evitare di comprare obbligazioni che stanno per paga
 *Tassa sulla plus valenza* --> prezzo finale di vendita - prezzo iniziale di acquisto (solo sel'obbligazione inizialmente era stata emessa a 100) 
 
 La tassazione per entrambe è il 26%, ma per le obbligazioni emesse da stati ed enti sovra nazionali, la tassazione è agevolata al 12,5%.
+
+## EEF 10 - I nove errori da evitare
+
+1. Consulenza e gestione patrimoniale.I consulenti spesso non sono imparziali e tendono a consigliare i propri prodotti, spesso fondi che sono molto più costosi di ETF equivalenti.
+
+2. Capitale garantito. Da chi? Gli investimenti a capitale garantito sono costosissimi. La probabilità che a fine investimento torni solo il capitale di partenza è molto alta.
+
+3. Polizze assicurative di investimento
+4. Investimenti alternativi
+5. Investimenti complessi
+6. Vendere in perdita
+7. Prevedere il mercato
+8. Movimentare gli investimenti
+9. Non fare over fitting
+
 
 - [@simoTra](https://www.github.com/simoTra)
