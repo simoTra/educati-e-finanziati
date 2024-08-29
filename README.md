@@ -36,6 +36,25 @@ Appunti del corso base di [educazione finanziaria di Paolo Coletti](https://www.
     - [Calcolo del rateo](#calcolo-del-rateo)
     - [Tassazione delle obbligazioni](#tassazione-delle-obbligazioni)
   - [EEF 10 - I nove errori da evitare](#eef-10---i-nove-errori-da-evitare)
+  - [EEF 12 - Le azioni](#eef-12---le-azioni)
+    - [I dividenti](#i-dividenti)
+    - [OPA](#opa)
+    - [Liquidazioni](#liquidazioni)
+    - [Altri tipi di azioni](#altri-tipi-di-azioni)
+    - [I mercati finanziari e la quotazione](#i-mercati-finanziari-e-la-quotazione)
+    - [Determinare il prezzo di una azione](#determinare-il-prezzo-di-una-azione)
+    - [Settore industriale](#settore-industriale)
+    - [Tipi di analisi](#tipi-di-analisi)
+      - [Analisi fondamentale](#analisi-fondamentale)
+      - [Analisi tecnica](#analisi-tecnica)
+  - [EEF 13 - fondi ed ETF ETC ETN](#eef-13---fondi-ed-etf-etc-etn)
+    - [Fondi comuni d'investimento](#fondi-comuni-dinvestimento)
+    - [ETF](#etf)
+      - [UCITS](#ucits)
+      - [Distribuzione](#distribuzione)
+      - [Accumulo](#accumulo)
+      - [Replicazione](#replicazione)
+    - [ETC, ETN, ETP](#etc-etn-etp)
 
 
 ## EEF 02 - Strategia di investimento a quattro pilastri
@@ -50,17 +69,17 @@ Spese per l'ordinaria amministrazione, più qualcosa. Non ci devono essere le sp
 
 ### Spese di emergenza
 
-Fondo per tutte le spese imprevedibile. Da modellare in base alla propria situazione di vita/familiare. Non è il caso di investire i soldi del fondo di emergenza. Tenuta sul conto corrente se la somma non è troppo rilevante oppure:
+Fondo per tutte le spese imprevedibile. Da modellare in base alla propria situazione di vita/familiare. Non è il caso d'investire i soldi del fondo di emergenza. Tenuta sul conto corrente se la somma non è troppo rilevante oppure:
 
-- conto deposito --> conto corrente in cui si può solo bonificare e farseli ribonificare. Da sceglierne uno vincolato ma con possibilità di svincolare quando si vuole perdendo i tassi di interesse
-- obbligazioni brevi --> bot (durata un anno, rendimento circa 3% lordo) o btp (durata leggermente più lunga, circa 3,5%), bisogna avere un conto titoli.
+- conto deposito --> conto corrente in cui si può solo bonificare e farseli ribonificare. Da sceglierne uno vincolato ma con possibilità di svincolare quando si vuole perdendo i tassi d'interesse
+- obbligazioni brevi --> BOT (durata un anno, rendimento circa 3% lordo) o BTP (durata leggermente più lunga, circa 3,5%), bisogna avere un conto titoli.
 - ETF monetario
 
-Opzione giusta da, ovviamente, valutare in base al periodo storico e dai rendimentipuntuali.
+Opzione giusta da, ovviamente, valutare in base al periodo storico e dai rendimenti puntuali.
 
 ### Spese prevedibili - previste
 
-Fatti i primi due pilastri, tutto il resto potrebbe essere investito. Dipende dal tipo di investimento. L'azionario ha un tempo di investimento di circa 10 anni, dopo i quali si ha una grossa probabilità di uscire in positivo e con rendimenti notevoli, sotto i 10 anni potrebbe essere una "scommessa". Cosa fare se parte dei soldi che posso investire non li posso tenere "bloccati" per così tanto tempo? Se ho quindi delle spese prevedibili? Tutto quello che si prevede di spendere (cambio macchina da qui a 5 anni, cambio casa, etc...), può essere messo in questo pilastro che ha una _allocazione a scadenza_.
+Fatti i primi due pilastri, tutto il resto potrebbe essere investito. Dipende dal tipo d'investimento. L'azionario ha un tempo d'investimento di circa 10 anni, dopo i quali si ha una grossa probabilità di uscire in positivo e con rendimenti notevoli, sotto i 10 anni potrebbe essere una "scommessa". Cosa fare se parte dei soldi che posso investire non li posso tenere "bloccati" per così tanto tempo? Se ho quindi delle spese prevedibili? Tutto quello che si prevede di spendere (cambio macchina da qui a 5 anni, cambio casa, etc...), può essere messo in questo pilastro che ha una _allocazione a scadenza_.
 
 - Obbligazioni --> BTP, buoni del tesoro pluriennali, "prestito", nel caso dei BTP, allo Stato che ti garantisce un interesse.
 
@@ -89,7 +108,7 @@ Che tipi di conti corrente avere?
 
 - conto corrente principale dove si eseguono le operazioni della vita quotidiana (bollette, stipendi, etc...)
 - conto secondario (?) --> se si gestiscono situazioni familiari "complesse"
-- carte conto --> revolut, può essere usata come conto secondario
+- carte conto --> Revolut, può essere usata come conto secondario
 
 ## EEF 04 - Ti serve una carta di credito?
 
@@ -105,7 +124,7 @@ Si basa su tre circuiti principali:
 
 - Visa --> globalmente accettato
 - Mastercard --> globalmente accettato
-- American Express --> accettato da circa 1/3 dei posti perchè ha commissioni più alte. Offre molti vantaggi per chi viaggia molto. Da fare se si ha almeno una delle altre due.
+- American Express --> accettato da circa 1/3 dei posti perché ha commissioni più alte. Offre molti vantaggi per chi viaggia molto. Da fare se si ha almeno una delle altre due.
 
 Ogni volta che si effettua un pagamento, l'importo non viene immediatamente decurtato dal conto, viene fatto quindi un credito (potenzialmente si potrebbero anche non avere soldi sul conto corrente). Una volta al mese viene fatto il conto totale del debito ed entro, tendenzialmente, due settimane va ripagato al creditore.
 
@@ -117,20 +136,20 @@ Hanno un "conto di appoggio" nel quale va bonificato l'importo di cui si vuole r
 
 ## EEF 05 - Scegliere il giusto conto titoli
 
-Deposito per strumenti finanziari. Da avere per forza se si vuole investire in obbigazioni/azioni. Da accesso ad alcuni mercati, prima di aprire un conto titoli bisogna vedere se quello selezionato ci da accesso ai mercati di nostro interesse. Accesso a _borsa italiana_ obbligatorio (MOT, euroMOT).
+Deposito per strumenti finanziari. Da avere per forza se si vuole investire in obbligazioni/azioni. Da accesso ad alcuni mercati, prima di aprire un conto titoli bisogna vedere se quello selezionato ci dà accesso ai mercati di nostro interesse. Accesso a _borsa italiana_ obbligatorio (MOT, euroMOT).
 
 Potrebbe avere dei costi annuali. Ogni volta che si compra/vende, si hanno delle commissioni fisse o delle percentuali sull'importo
 
 Si possono trasferire i titoli da un conto titoli all'altro, gratuitamente. Operazione fatta a mano dagli operatori, spesso ci mette del tempo.
 
-Gli itermediari esteri come Degiro, Scalable Capital, Interactive Brokers (e Trade Republic), danno spesso accesso a mercati finanziari esteri e hanno commissioni gratuite o molto basse. Le tasse, se l'intermediario è italiano, vengono pagate automaticamente, se é estero no, verificare almeno che venga fornito il _quadro RW_ precompilato da ricopiare in dichiarazione dei redditi.
+Gli intermediari esteri come Degiro, Scalable Capital, Interactive Brokers (e Trade Republic), danno spesso accesso a mercati finanziari esteri e hanno commissioni gratuite o molto basse. Le tasse, se l'intermediario è italiano, vengono pagate automaticamente, se è estero no, verificare almeno che venga fornito il _quadro RW_ precompilato da ricopiare in dichiarazione dei redditi.
 
 ## EEF 06 - La matematica necessaria
 
 ### Interesse composto
 
-Interesse che si riceve su un importo principale, che é compreso dell'interesse accumulato dai periodi precedenti su un deposito o di un prestito --> _(b+b+20%)_
-L'effetto dell'interesse composto si vede nella maggior parte dei casi quando l'orizzonte temporale é molto lungo o se i rendimenti sono molto alti.
+Interesse che si riceve su un importo principale, che è compreso dell'interesse accumulato dai periodi precedenti su un deposito o di un prestito --> _(b+b+20%)_
+L'effetto dell'interesse composto si vede nella maggior parte dei casi quando l'orizzonte temporale è molto lungo o se i rendimenti sono molto alti.
 
 | Data     | Valore [€]          |          |     | Valore [€] |         |
 | -------- | ------------------- | -------- | --- | ---------- | ------- |
@@ -161,7 +180,7 @@ L'effetto dell'interesse composto si vede nella maggior parte dei casi quando l'
 
 ### Tasso Interno di Rendimento
 
-Cosa succede se non si ha un'acquisto ed una conseguente vendita ma un flusso di denaro, come per esempio nelle obbligazioni?
+Cosa succede se non si ha un acquisto e una conseguente vendita ma un flusso di denaro, come per esempio nelle obbligazioni?
 
 | Date     | Flussi   |        |        |                             |
 | -------- | -------- | ------ | ------ | --------------------------- |
@@ -179,7 +198,7 @@ Cosa succede se non si ha un'acquisto ed una conseguente vendita ma un flusso di
 
 Il calcolo del rendimento annuo non tiene conto di quando riceviamo i soldi, cosa fondamentale in finanza.
 
-_TIR.X_ --> formula di excel per calcolarlo (la formula in realtà è matematicamente irrisolvibile). Tiene conto di quando arrivano i soldi, a differenza del calcolo normale del rendimento che da il risultato come se tutto arrivasse all'ultimo giorno. Da per scontanto che i soldi vengano re investiti in un investimento analogo.
+_TIR.X_ --> formula di Excel per calcolarlo (la formula in realtà è matematicamente irrisolvibile). Tiene conto di quando arrivano i soldi, a differenza del calcolo normale del rendimento che da il risultato come se tutto arrivasse all'ultimo giorno. Da per scontato che i soldi vengano re investiti in un investimento analogo.
 
 Se si hanno flussi di cassa, quindi, è meglio utilizzare il TIR invece che il rendimento.
 
@@ -200,19 +219,19 @@ Tendenzialmente non danno interessi. Se danno interessi, il guadagno è tassato 
 
 ### Conto deposito
 
-Tecnicamente ugale al conto corrente, non si possono però effettuare alcune operazioni come bonifici ad altre persone, prelevare contanti, etc... Tassati sempre al 26%, più il bollo dello 0,2% su quanto c'è sul conto al 31/12. Ne esistono di varie categorie:
+Tecnicamente uguale al conto corrente, non si possono però effettuare alcune operazioni come bonifici ad altre persone, prelevare contanti, etc... Tassati sempre al 26%, più il bollo dello 0,2% su quanto c'è sul conto al 31/12. Ne esistono di varie categorie:
 
 - vincolati --> i soldi vengono "bloccati", per un periodo di tempo variabile (1-5 anni)
-- svincolati --> hanno tassi di interesse inferiori rispetto ai vincolati, ma si è liberi di fare tutte le operazioni velocemente (fondamentale per il fondo di emergenza)
+- svincolati --> hanno tassi d'interesse inferiori rispetto ai vincolati, ma si è liberi di fare tutte le operazioni velocemente (fondamentale per il fondo di emergenza)
 - svincolabile --> vincolato ma con la possibilità di prendere i soldi perdendo gli interessi.
 
 Capitale garantito fino a 100.000€.
 
-[Link al forum](https://forum.finanzaonline.com/threads/conti-deposito-foglio-excel-calcolo-interessi-e-rendimenti-confronto-e-strategie-cap-xix.2044655/) con possibilià d scaricare un foglio excel con il recap di tutti i conti deposito attivi in italia e le relative condizioni.
+[Link al forum](https://forum.finanzaonline.com/threads/conti-deposito-foglio-excel-calcolo-interessi-e-rendimenti-confronto-e-strategie-cap-xix.2044655/) con possibilità d scaricare un foglio Excel con il recap di tutti i conti deposito attivi in Italia e le relative condizioni.
 
 ### Obbligazioni a brevissima durata
 
-Le obbligazioni di breve durata più tradizionali sono i *BOT* (Buoni ordinari del tesoro); per comprarli bisogna avere un conto titoli. Sono tassati al 12,5% (perchè è un titolo di Stato).
+Le obbligazioni di breve durata più tradizionali sono i *BOT* (Buoni ordinari del tesoro); per comprarli bisogna avere un conto titoli. Sono tassati al 12,5% (perché è un titolo di Stato).
 
 Lo Stato garantisce il capitale alla scadenza del BOT.
 
@@ -224,7 +243,7 @@ Non hanno capitale garantito.
 
 ## EEF 08 - investimenti a medio termine - le obbligazioni
 
-Metodo migliore per investire il terzo pilastro (spese prevedibili - previste), si stima quando potrebbero servire i soldi e si scelgie un'obbligazione di durante congrua. Si possono scegliere anche più obbligazioni con scadenze dilazionate (ex: a 2, 4, 6 anni). Nel caso in cui la spesa preventivata vada fatta prima, si vende l'obbligazione.
+Metodo migliore per investire il terzo pilastro (spese prevedibili - previste), si stima quando potrebbero servire i soldi e si sceglie un'obbligazione di durante congrua. Si possono scegliere anche più obbligazioni con scadenze dilazionate (ex: a 2, 4, 6 anni). Nel caso in cui la spesa preventivata vada fatta prima, si vende l'obbligazione.
 
 ### Plain vanilla - TF
 Una obbligazione è un contratto di debito che si fa con un governo, azienda o banche. Si compra l'obbligazione --> si danno dei soldi in prestito al governo/azienda, periodicamente paga gli interessi (ex: compro un'obbligazione a 100€ con interessi al 3%, una volta ogni *anno*, vengono dati 3€ *cedola*). Tutte le obbligazioni hanno scadenza (ex: allo scadere *5 anni*, viene ripagato il prestito iniziale 100€) --> *obbligazione plain vanilla*.
@@ -237,23 +256,23 @@ Nei *BTP*, titoli di stato emessi dal governo italiano, la cedola è pagata seme
 
 ### Step Up
 
-All'inizio le cedole sono più basse, aumentano con ogni rimborso. Se su una obbligazione di 5 anni, si parte da una cedola del 2% fino ad arrivare al 4% (2-2,5-3-3,5-4), il rendimento non è il 3% ma 2,97% (TIR), perchè le cedole più alte vengono pagate dopo.
+All'inizio le cedole sono più basse, aumentano con ogni rimborso. Se su una obbligazione di 5 anni, si parte da una cedola del 2% fino ad arrivare al 4% (2-2,5-3-3,5-4), il rendimento non è il 3% ma 2,97% (TIR), perché le cedole più alte vengono pagate dopo.
 
 ### Cedola completamente variabile
 
-Il rendimento varia in base a paramentri precedentemente scelti (ex: 1%+inflazione). Non si possono calcolare precisamente i rendimenti, si possono solo stimare.
+Il rendimento varia in base a paramenti precedentemente scelti (ex: 1%+inflazione). Non si possono calcolare precisamente i rendimenti, si possono solo stimare.
 
 ### Zero coupon - ZC
 
-Non pagano la cedola, il prezzo iniziale però ha valore inferiore a 100. I [BOT](#obbligazioni-a-brevissima-durata) sono delle 0 coupon.
+Non pagano la cedola, il prezzo iniziale però ha valore inferiore a 100. I [BOT](#obbligazioni-a-brevissima-durata) sono delle zero coupon.
 
 ### Calcolo del prezzo di una obbligazione
 
 Un'obbligazione si può vendere e comprare anche durante la sua vita, non si deve per forza comprare all'inizio e aspettarne la scadenza. Il prezzo di acquisto/vendita, durante il periodo dell'obbligazione può variare al variare dell'affidabilità dell'emettente. Se l'azienda è in un periodo di crisi, il prezzo da 100 scende, al contrario, se la sua solitidà aumenta, il prezzo sale.
 
-Il prezzo varia anche in base ai *tassi delle nuove emissioni*, se un anno dopo aver acquistato un titolo, lo si vuole vendere e ci sono obbligazioni nuove di aziende di pari affidabilità che però rendono di più, il prezzo di vendita dell'obblogazione scende.
+Il prezzo varia anche in base ai *tassi delle nuove emissioni*, se un anno dopo aver acquistato un titolo, lo si vuole vendere e ci sono obbligazioni nuove di aziende di pari affidabilità che però rendono di più, il prezzo di vendita dell'obbligazione scende.
 
-Quando i tassi di interesse offerti dalle nuove obbligazioni (*tassi di mercato*), salgono, il prezzo della mia obbligazione scende. Vale anche il contrario.
+Quando i tassi d'interesse offerti dalle nuove obbligazioni (*tassi di mercato*), salgono, il prezzo della mia obbligazione scende. Vale anche il contrario.
 
 A scadenza vengono sempre rimborsate a 100 (a meno che non fallisca l'emittente).
 
@@ -266,8 +285,8 @@ Meccanismo per inserire gli ordini all'interno del mercato finanziario.
 
 *Prezzi*
 - last --> prezzo dell'ultimo scambio che è stato fatto per quella determinata obbligazione
-- bid --> prezzo al quale si può vendere, vul dire che c'è qualcuno disposto a comprare a quel prezzo
-- ask --> prezzo al quale si può comprare, vul dire che c'è qualcuno disposto a vendere a quel prezzo
+- bid --> prezzo al quale si può vendere, vuol dire che c'è qualcuno disposto a comprare a quel prezzo
+- ask --> prezzo al quale si può comprare, vuol dire che c'è qualcuno disposto a vendere a quel prezzo
 
 *BID - ASK = spread*
 
@@ -281,17 +300,17 @@ Per questo motivo è meglio evitare di comprare obbligazioni che stanno per paga
 ### Tassazione delle obbligazioni
 
 *Tassa sulla cedola*
-*Tassa sulla plus valenza* --> prezzo finale di vendita - prezzo iniziale di acquisto (solo sel'obbligazione inizialmente era stata emessa a 100) 
+*Tassa sulla plus valenza* --> prezzo finale di vendita - prezzo iniziale di acquisto (solo se l'obbligazione inizialmente era stata emessa a 100) 
 
 La tassazione per entrambe è il 26%, ma per le obbligazioni emesse da stati ed enti sovra nazionali, la tassazione è agevolata al 12,5%.
 
 ## EEF 10 - I nove errori da evitare
 
-1. Consulenza e gestione patrimoniale.I consulenti spesso non sono imparziali e tendono a consigliare i propri prodotti, spesso fondi che sono molto più costosi di ETF equivalenti.
+1. Consulenza e gestione patrimoniale. I consulenti spesso non sono imparziali e tendono a consigliare i propri prodotti, spesso fondi che sono molto più costosi di ETF equivalenti.
 
 2. Capitale garantito. Da chi? Gli investimenti a capitale garantito sono costosissimi. La probabilità che a fine investimento torni solo il capitale di partenza è molto alta.
 
-3. Polizze assicurative di investimento
+3. Polizze assicurative d'investimento
 4. Investimenti alternativi
 5. Investimenti complessi
 6. Vendere in perdita
@@ -299,5 +318,94 @@ La tassazione per entrambe è il 26%, ma per le obbligazioni emesse da stati ed 
 8. Movimentare gli investimenti
 9. Non fare over fitting
 
+
+## EEF 12 - Le azioni
+
+*Una azione è un pezzo di proprietà della azienda.*
+
+### I dividenti
+
+I *dividenti* sono dei soldi (pezzi di azienda) che di tanto in tanto l'azienda decide di pagare ai propri azionisti. I dividenti (spesso presi dagli utili), vengono pagati in base al numero di azioni possedute. Non è detto che una azienda paghi dividenti.
+Se una azienda paga meno (o non paga) dividenti rispetto all'anno scorso, questo comportamento viene visto molto male dal mercato.
+
+La tassazione è del 26%.
+
+### OPA
+
+L'offerta pubblica di acquisto (OPA) è uno strumento per facilitare l'acquisizione del controllo di una società i cui titoli sono diffusi sul mercato e che contemporaneamente garantisce equità nella distribuzione dei premi di maggioranza. 
+Conviene sempre aderire perché c'è il grosso rischio che la società venga delistata.
+
+### Liquidazioni
+
+Se l'azienda fallisce viene liquidata a zero e non si ha diritto alle minusvalenze. 
+Se invece l'azienda A viene acquisita dall'azienda B (e di conseguenza delistata), l'azienda B ripaga le azioni possedute di A o con azioni dello stesso valore di B, oppure con il corrispettivo monetario (poco probabile). Al fine di questo processo non si avranno più azioni di A ma solamente di B.
+
+### Altri tipi di azioni
+
+Una azienda può avere più di un tipo di azioni, spesso vengono create per diversificare il mercato di azionisti (piccoli e grandi azionisti), e danno diritti diversi, le regole cambiano da azienda ad azienda. Ci possono essere delle azioni che non permettono di partecipare all'assemblea.
+
+### I mercati finanziari e la quotazione
+
+Le azioni vengono scambiate nei mercati azionari (Borsa), una azienda può essere quotata in più mercati finanziari, è comunque sempre preferibile, per avere uno [spread](#microstruttura-del-mercato-finanziario) basso, comprare sempre sul mercato di riferimento dell'azienda.
+
+### Determinare il prezzo di una azione
+
+Non c'è nessuna regola che determina il prezzo di una azione in borsa. Soprattutto nel *breve periodo*, i prezzi si muovono a caso, ma, tendenzialmente, tutti nella stessa direzione.
+
+### Settore industriale
+
+Le aziende sono inquadrate in un settore industriale, spesso non è facile inquadrarle perché a cavallo tra più settori o sono conglomerati (ex: Tesla, Amazon, etc...). È utile sapere il settore industriale per diversificare i propri investimenti.
+
+### Tipi di analisi 
+
+#### Analisi fondamentale
+
+L'analisi fondamentale è una tecnica che, per dedurre l'andamento nel mercato di una azienda, ne va a studiare il bilancio della società. Si cerca di determinare gli utili futuri per determinare il prezzo di borsa. Strategia valida nel lungo periodo.
+
+#### Analisi tecnica
+
+Si cerca di determinare l'andamento in borsa di una società in base ai suoi grafici, trovando pattern e inefficienze di mercato. Potrebbe funzionare a breve o medio periodo.
+
+## EEF 13 - fondi ed ETF ETC ETN
+
+### Fondi comuni d'investimento
+
+Fanno parte degli *OPCR*, in cui più piccoli investitori si mettono insieme con del capitale da dare al fondo, e il fondo si occuperà di comprare un certo numero di azioni distribuite in un certo numero di aziende (con dei criteri definiti precedentemente). Il fondo quindi compra un paniere di titoli.
+
+La differenza con un ETF, è che un ETF è scambiato su un mercato finanziario, mentre il fondo no. Il fondo è presso una società privata (banca), e solo quella società, nel momento in cui si decide di disinvestire, può ridare i soldi.
+
+Un ETF, essendo scambiato in una borsa, non ci sono intermediari.
+
+### ETF
+
+[Just ETF](https://www.justetf.com)
+
+Gli ETF sono a gestione passiva, la regola è definita a priori (ex: tracciare un indice). Non ci sono persone che prendono decisioni, il prezzo di gestione dell'ETF è quindi molto più basso rispetto ad un fondo (circa 5 volte più basso).
+
+#### UCITS
+
+Se si è residenti in Italia e si compra un ETF, deve essere UCITS, se non lo è, va messo in dichiarazione dei redditi come reddito da lavoro.
+
+#### Distribuzione
+
+Quando le aziende pagano un dividendo, l'ETF lo investe in un prodotto a basso rischio (obbligazioni), e periodicamente (circa ogni 3 mesi), li rimborsa.
+Sui dividendi vanno pagate le tasse del 26%. Se si chiude in perdita le tasse si sono già pagate
+
+#### Accumulo
+
+Il dividendo non viene rimborsato, ma viene usato per riacquistare azioni. Se si chiude in perdita non ci sono tasse da pagare sui dividendi.
+
+#### Replicazione
+
+Descrive come l'ETF tiene traccia dell'indice.
+
+- *totale* --> o fisica, l'ETF contiene tutti (o quasi) i componenti dell'indice
+- *campionamento* --> l'ETF compra solo le aziende più grandi
+- *sintetica* --> garantiscono di avere lo stesso rendimento dell'indice usando però strumenti speculativi (swap)
+
+### ETC, ETN, ETP
+
+Molto spesso sono a replica sintetica, non devono essere per forza UCITS e c'è un vantaggio fiscale (segue...).
+Non si basano su azioni, ma su altro (commodities, notes, products).
 
 - [@simoTra](https://www.github.com/simoTra)
