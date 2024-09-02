@@ -55,6 +55,20 @@ Appunti del corso base di [educazione finanziaria di Paolo Coletti](https://www.
       - [Accumulo](#accumulo)
       - [Replicazione](#replicazione)
     - [ETC, ETN, ETP](#etc-etn-etp)
+  - [EEF 14 - allocazione di portafoglio ed acquisto ETF](#eef-14---allocazione-di-portafoglio-ed-acquisto-etf)
+    - [Rendimento medio e rischio](#rendimento-medio-e-rischio)
+    - [Diversificazione](#diversificazione)
+    - [Diversificazione geografica equally weighted o value weighted](#diversificazione-geografica-equally-weighted-o-value-weighted)
+  - [EEF 16 - tassazione degli investimenti finanziari](#eef-16---tassazione-degli-investimenti-finanziari)
+    - [Imposta di bollo e IVAFE](#imposta-di-bollo-e-ivafe)
+    - [Regimi di tassazione](#regimi-di-tassazione)
+      - [Amministrato](#amministrato)
+      - [Gestito](#gestito)
+      - [Dichiarativo](#dichiarativo)
+    - [Redditi da capitale](#redditi-da-capitale)
+    - [Plusvalenze e minusvalenze](#plusvalenze-e-minusvalenze)
+  - [EEF 17 - microstruttura dei mercati e come vendere](#eef-17---microstruttura-dei-mercati-e-come-vendere)
+  - [EEF 18 - il fondo pensione](#eef-18---il-fondo-pensione)
 
 
 ## EEF 02 - Strategia di investimento a quattro pilastri
@@ -407,5 +421,100 @@ Descrive come l'ETF tiene traccia dell'indice.
 
 Molto spesso sono a replica sintetica, non devono essere per forza UCITS e c'è un vantaggio fiscale (segue...).
 Non si basano su azioni, ma su altro (commodities, notes, products).
+
+## EEF 14 - allocazione di portafoglio ed acquisto ETF 
+
+### Rendimento medio e rischio
+
+Il rendimento medio atteso sul mercato azionario e del circa 7/8% lordo con un lasso temporale minimo di 10 anni. Durante questi anni le fluttuazioni del mercato non sono indifferenti e bisogna essere disposti a sopportarle. I 10 anni sono una stima sui dati del passato.
+
+Il rischio è dovuto all'oscillazione del mercato (volatilità/deviazione standard dei rendimenti).
+
+### Diversificazione
+
+Se si comprassero due assets perfettamente decorrelati (quando uno sale di 10 l'altro scende di 10 e viceversa), ma con lo stesso rendimento medio atteso, non si potrebbero prendere anni negativi.
+
+In finanza, è quasi impossibile trovare assets completamente decorrelati, il mercato tende a muoversi nella stessa direzione. Prendendo aziende/ETF molto differenti, è possibile diminuire il rischio.
+
+|                  | Azienda A | Azienda B | Portafoglio |                              |
+| ---------------- | --------- | --------- | ----------- | ---------------------------- |
+| Anno A           | -40%      | +60%      | +10%        | Invece di comprare azioni    |
+| Anno B           | +60%      | -40%      | +10%        | solo di A o solo di B        |
+|                  |           |           |             | si comprano metà A e metà B. |
+| rischio          | +50%      | +50%      | +10%        | Il Rischio in questo caso    |
+| rendimento medio | +10%      | +10%      |             | viene azzerato               |
+
+### Diversificazione geografica equally weighted o value weighted
+
+Gli ETF sono quasi sempre pesati per capitalizzazione, le aziende grandi ed i paesi grandi (finanziariamente) sono iper rappresentati, mentre aziende e paesi piccoli sono tralasciati.
+
+## EEF 16 - tassazione degli investimenti finanziari
+
+### Imposta di bollo e IVAFE
+
+Imposta sull'estratto conto di 34€, si paga solo se la giacenza media del conto corrente è superiore di 5000€. 
+
+Grava anche sui conti titoli ed è calcolata come lo 0,2% del valore di mercato dei titoli nel momento in cui si riceve l'estratto conto al 31/12.
+
+L'IVAFE (*Imposta sul valore delle attività finanziarie detenute all'estero*), va pagata se gli investimenti vengono fatti all'estero o con un intermediario estero, va compilato il quadro RW del 730.
+
+### Regimi di tassazione 
+
+#### Amministrato
+
+Ogni operazione eseguita viene tracciata e le tasse vengono fatte pagare automaticamente dall'intermediario (se italiano).
+
+#### Gestito
+
+C'è qualcuno che gestisce il patrimonio.
+
+#### Dichiarativo
+
+Le tasse sono calcolate come nel regime amministrato, ma vanno pagate poi nella dichiarazione dei redditi dell'anno successivo, compilando a mano i vari quadri R del 730.
+
+### Redditi da capitale
+
+Tutti quei redditi certi (non in quantità) che arrivano da capitale investito:
+- dividenti azionari
+- cedole delle obbligazioni
+- interessi sui conti correnti e conti deposito
+- ETF venduto in guadagno (se venduto in perdita invece fa minusvalenza). Solo se etF, se ETC, ETN, ETP fanno plusvalenza.
+
+Su questi c'è un'imposta del 26%. Se però si parla di obbligazioni o ETF governativi, la tassazione scende al 12,5%.
+
+### Plusvalenze e minusvalenze
+
+*Ricavo - (costo + commissioni varie) = plusvalenza se positivo o minusvalenza se negativo*
+
+La plusvalenza (se non derivante da qualcosa di governativo), è tassata al 26% a meno che non si abbia nello *zainetto fiscale* delle minusvalenze derivanti da delle vendite in perdita, se si hanno, si possono usare per scontare la tassa sulle plusvalenze. Lo zainetto fiscale ha durata 4 anni.
+
+## EEF 17 - microstruttura dei mercati e come vendere
+
+*Book* --> database composto da ordini di vendita e ordini di acquisto, ordinate in base all'offerta migliore. Si può impostare il prezzo di acquisto/vendita *al meglio*, in questo caso l'ordine verrà evaso a prezzo d'asta.
+
+*TON* --> tutto o niente. Se si emette un ordine per 25 pezzi, ma il matching si ha solo su 24, l'ordine non viene eseguito.
+
+*EEC* --> esegui e cancella
+
+*Iceberg*
+
+## EEF 18 - il fondo pensione
+
+Strumento d'investimento in cui si depositano dei soldi, vengono "rivisti" al momento della pensione. Ha tassazione 0 nel momento in cui si depositano i soldi, si pagano poi in misura ridotta.
+
+| Vantaggi                                                      | Svantaggi                                              | Mitigazione                                                |
+| ------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
+| *Sgravio fiscale fino a 5164,57€*                             | Paghi comunque le tasse quando le ricevi               | 9-15% a seconda del tempo nel fondo (35 anni 9%)           |
+| Contributo del datore di lavoro...                            | ...ma solo sul fondo di categoria e versando il TFR    | Certe categorie (pubbliche) non versano il TFR             |
+| Tassazione sui rendimenti azionari del 20% invece che del 26% | Tassazione applicata ogni anno                         |                                                            |
+| Niente imposta di bollo 0,2%                                  |                                                        |                                                            |
+|                                                               | Soldi bloccati fino alla pensione                      | Varie possibilità di uscita a tassazione media (circa 23%) |
+|                                                               | Soldi percepiti a rate in base all'aspettativa di vita | Se versato meno di circa 50k su possono prendere insieme   |
+|                                                               | *Costi di versamento e gestione*                       |                                                            |
+
+Potrebbe essere una buona scelta quella di aprire subito un fondo pensione con il minimo contributivo (circa 50€/anno) per iniziare a far abbassare la tassazione raggiungendo il prima possibile i 35 anni di età contributiva del fondo e quindi il 9% di tassazione.
+
+Se il datore da una percentuale dello stipendio allora ha senso farlo (il datore mette l'1% dello stipendio se l'impiegato ne mette un altro 1%).
+
 
 - [@simoTra](https://www.github.com/simoTra)
